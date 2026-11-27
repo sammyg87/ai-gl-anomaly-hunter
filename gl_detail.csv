@@ -1,0 +1,302 @@
+je_id,date,account,vendor,invoice,description,amount,posted_by
+JE10024,2026-05-01,Packing materials,Pacific Box & Pack,INV-691589,Packing materials - Pacific Box & Pack,18333.18,mlopez
+JE10004,2026-05-04,Fuel & diesel,Valley Diesel Supply,INV-925618,Fuel & diesel - Valley Diesel Supply,6298.72,rdiaz
+JE10009,2026-05-04,Chemicals & fertilizer,Central Ag Chemicals,INV-690477,Chemicals & fertilizer - Central Ag Chemicals,10756.79,rdiaz
+JE10013,2026-05-04,Chemicals & fertilizer,Central Ag Chemicals,INV-268410,Chemicals & fertilizer - Central Ag Chemicals,10497.68,mlopez
+JE10019,2026-05-04,Packing materials,Pacific Box & Pack,INV-836130,Packing materials - Pacific Box & Pack,17134.53,rdiaz
+JE10023,2026-05-04,Packing materials,Pacific Box & Pack,INV-927725,Packing materials - Pacific Box & Pack,12830.79,mlopez
+JE10027,2026-05-04,Repairs & maintenance,SJ Valley Equipment Repair,INV-442668,Repairs & maintenance - SJ Valley Equipment Repair,5597.58,rdiaz
+JE10032,2026-05-04,Repairs & maintenance,SJ Valley Equipment Repair,INV-660081,Repairs & maintenance - SJ Valley Equipment Repair,3789.68,mlopez
+JE10044,2026-05-04,Harvest labor,Kings Labor Contractors,INV-341373,Harvest labor - Kings Labor Contractors,54104.56,jchen
+JE10008,2026-05-05,Fuel & diesel,Valley Diesel Supply,INV-451269,Fuel & diesel - Valley Diesel Supply,5578.05,jchen
+JE10016,2026-05-05,Chemicals & fertilizer,Central Ag Chemicals,INV-361578,Chemicals & fertilizer - Central Ag Chemicals,9976.7,mlopez
+JE10003,2026-05-07,Fuel & diesel,Valley Diesel Supply,INV-481064,Fuel & diesel - Valley Diesel Supply,5780.02,rdiaz
+JE10017,2026-05-08,Chemicals & fertilizer,Central Ag Chemicals,INV-273370,Chemicals & fertilizer - Central Ag Chemicals,9877.58,jchen
+JE10020,2026-05-08,Packing materials,Pacific Box & Pack,INV-216337,Packing materials - Pacific Box & Pack,18235.96,mlopez
+JE10041,2026-05-08,Office supplies,Tulare Office Supply,INV-998566,Office supplies - Tulare Office Supply,598.89,jchen
+JE10042,2026-05-08,Harvest labor,Kings Labor Contractors,INV-929387,Harvest labor - Kings Labor Contractors,50894.01,mlopez
+JE10001,2026-05-11,Fuel & diesel,Valley Diesel Supply,INV-645261,Fuel & diesel - Valley Diesel Supply,6822.9,jchen
+JE10034,2026-05-11,Repairs & maintenance,SJ Valley Equipment Repair,INV-384976,Repairs & maintenance - SJ Valley Equipment Repair,5589.37,rdiaz
+JE10046,2026-05-11,Harvest labor,Kings Labor Contractors,INV-377854,Harvest labor - Kings Labor Contractors,59075.12,jchen
+JE10010,2026-05-12,Chemicals & fertilizer,Central Ag Chemicals,INV-880185,Chemicals & fertilizer - Central Ag Chemicals,9505.56,mlopez
+JE10030,2026-05-12,Repairs & maintenance,SJ Valley Equipment Repair,INV-308258,Repairs & maintenance - SJ Valley Equipment Repair,4073.76,rdiaz
+JE10038,2026-05-12,Office supplies,Tulare Office Supply,INV-305844,Office supplies - Tulare Office Supply,397.01,rdiaz
+JE10031,2026-05-13,Repairs & maintenance,SJ Valley Equipment Repair,INV-823732,Repairs & maintenance - SJ Valley Equipment Repair,4500.81,rdiaz
+JE10011,2026-05-18,Chemicals & fertilizer,Central Ag Chemicals,INV-785140,Chemicals & fertilizer - Central Ag Chemicals,11285.07,rdiaz
+JE10012,2026-05-18,Chemicals & fertilizer,Central Ag Chemicals,INV-148685,Chemicals & fertilizer - Central Ag Chemicals,7951.03,mlopez
+JE10021,2026-05-18,Packing materials,Pacific Box & Pack,INV-975302,Packing materials - Pacific Box & Pack,17196.97,jchen
+JE10026,2026-05-18,Repairs & maintenance,SJ Valley Equipment Repair,INV-765202,Repairs & maintenance - SJ Valley Equipment Repair,3238.2,mlopez
+JE10028,2026-05-18,Repairs & maintenance,SJ Valley Equipment Repair,INV-404825,Repairs & maintenance - SJ Valley Equipment Repair,4170.6,jchen
+JE10029,2026-05-18,Repairs & maintenance,SJ Valley Equipment Repair,INV-261535,Repairs & maintenance - SJ Valley Equipment Repair,3432.91,jchen
+JE10035,2026-05-18,Repairs & maintenance,SJ Valley Equipment Repair,INV-640545,Repairs & maintenance - SJ Valley Equipment Repair,4020.58,mlopez
+JE10039,2026-05-18,Office supplies,Tulare Office Supply,INV-795519,Office supplies - Tulare Office Supply,583.59,mlopez
+JE10048,2026-05-18,Harvest labor,Kings Labor Contractors,INV-362554,Harvest labor - Kings Labor Contractors,44788.47,mlopez
+JE10002,2026-05-20,Fuel & diesel,Valley Diesel Supply,INV-364746,Fuel & diesel - Valley Diesel Supply,8017.95,jchen
+JE10014,2026-05-20,Chemicals & fertilizer,Central Ag Chemicals,INV-712589,Chemicals & fertilizer - Central Ag Chemicals,11527.16,jchen
+JE10022,2026-05-20,Packing materials,Pacific Box & Pack,INV-402899,Packing materials - Pacific Box & Pack,14353.11,jchen
+JE10025,2026-05-20,Packing materials,Pacific Box & Pack,INV-894165,Packing materials - Pacific Box & Pack,15832.59,rdiaz
+JE10040,2026-05-20,Office supplies,Tulare Office Supply,INV-964844,Office supplies - Tulare Office Supply,435.14,mlopez
+JE10005,2026-05-21,Fuel & diesel,Valley Diesel Supply,INV-704852,Fuel & diesel - Valley Diesel Supply,7025.66,jchen
+JE10007,2026-05-22,Fuel & diesel,Valley Diesel Supply,INV-299507,Fuel & diesel - Valley Diesel Supply,7372.0,mlopez
+JE10049,2026-05-22,Harvest labor,Kings Labor Contractors,INV-671075,Harvest labor - Kings Labor Contractors,51467.82,jchen
+JE10018,2026-05-25,Packing materials,Pacific Box & Pack,INV-463406,Packing materials - Pacific Box & Pack,20549.32,jchen
+JE10033,2026-05-25,Repairs & maintenance,SJ Valley Equipment Repair,INV-730713,Repairs & maintenance - SJ Valley Equipment Repair,4500.86,jchen
+JE10036,2026-05-25,Utilities,PG&E,INV-462345,Utilities - PG&E,39499.72,mlopez
+JE10047,2026-05-25,Harvest labor,Kings Labor Contractors,INV-105881,Harvest labor - Kings Labor Contractors,50392.34,rdiaz
+JE10015,2026-05-26,Chemicals & fertilizer,Central Ag Chemicals,INV-282691,Chemicals & fertilizer - Central Ag Chemicals,9174.99,rdiaz
+JE10037,2026-05-26,Insurance,Westside Farm Insurance,INV-986256,Insurance - Westside Farm Insurance,22000.0,rdiaz
+JE10043,2026-05-26,Harvest labor,Kings Labor Contractors,INV-420903,Harvest labor - Kings Labor Contractors,43332.88,mlopez
+JE10006,2026-05-27,Fuel & diesel,Valley Diesel Supply,INV-982431,Fuel & diesel - Valley Diesel Supply,5086.13,rdiaz
+JE10045,2026-05-27,Harvest labor,Kings Labor Contractors,INV-718605,Harvest labor - Kings Labor Contractors,65868.34,mlopez
+JE10089,2026-06-01,Office supplies,Tulare Office Supply,INV-771785,Office supplies - Tulare Office Supply,401.37,mlopez
+JE10055,2026-06-02,Fuel & diesel,Valley Diesel Supply,INV-923109,Fuel & diesel - Valley Diesel Supply,5344.05,mlopez
+JE10094,2026-06-02,Harvest labor,Kings Labor Contractors,INV-663859,Harvest labor - Kings Labor Contractors,47044.04,mlopez
+JE10071,2026-06-03,Packing materials,Pacific Box & Pack,INV-434692,Packing materials - Pacific Box & Pack,19277.79,rdiaz
+JE10085,2026-06-03,Utilities,PG&E,INV-525965,Utilities - PG&E,33692.61,rdiaz
+JE10073,2026-06-04,Packing materials,Pacific Box & Pack,INV-214453,Packing materials - Pacific Box & Pack,18602.21,mlopez
+JE10065,2026-06-05,Chemicals & fertilizer,Central Ag Chemicals,INV-380046,Chemicals & fertilizer - Central Ag Chemicals,11210.01,mlopez
+JE10067,2026-06-05,Packing materials,Pacific Box & Pack,INV-364548,Packing materials - Pacific Box & Pack,20553.06,jchen
+JE10083,2026-06-05,Repairs & maintenance,SJ Valley Equipment Repair,INV-411022,Repairs & maintenance - SJ Valley Equipment Repair,5630.44,rdiaz
+JE10075,2026-06-08,Repairs & maintenance,SJ Valley Equipment Repair,INV-736810,Repairs & maintenance - SJ Valley Equipment Repair,4034.44,jchen
+JE10078,2026-06-08,Repairs & maintenance,SJ Valley Equipment Repair,INV-586944,Repairs & maintenance - SJ Valley Equipment Repair,5358.82,rdiaz
+JE10082,2026-06-08,Repairs & maintenance,SJ Valley Equipment Repair,INV-399660,Repairs & maintenance - SJ Valley Equipment Repair,3136.7,jchen
+JE10096,2026-06-08,Harvest labor,Kings Labor Contractors,INV-463355,Harvest labor - Kings Labor Contractors,67941.22,mlopez
+JE10080,2026-06-09,Repairs & maintenance,SJ Valley Equipment Repair,INV-227487,Repairs & maintenance - SJ Valley Equipment Repair,4715.49,jchen
+JE10090,2026-06-09,Office supplies,Tulare Office Supply,INV-661178,Office supplies - Tulare Office Supply,451.59,mlopez
+JE10061,2026-06-10,Chemicals & fertilizer,Central Ag Chemicals,INV-122693,Chemicals & fertilizer - Central Ag Chemicals,8390.37,rdiaz
+JE10056,2026-06-11,Fuel & diesel,Valley Diesel Supply,INV-147096,Fuel & diesel - Valley Diesel Supply,5623.42,jchen
+JE10060,2026-06-12,Chemicals & fertilizer,Central Ag Chemicals,INV-920938,Chemicals & fertilizer - Central Ag Chemicals,6619.66,jchen
+JE10062,2026-06-12,Chemicals & fertilizer,Central Ag Chemicals,INV-457817,Chemicals & fertilizer - Central Ag Chemicals,8702.39,mlopez
+JE10068,2026-06-12,Packing materials,Pacific Box & Pack,INV-370348,Packing materials - Pacific Box & Pack,19191.55,mlopez
+JE10070,2026-06-12,Packing materials,Pacific Box & Pack,INV-722330,Packing materials - Pacific Box & Pack,19275.02,jchen
+JE10074,2026-06-12,Packing materials,Pacific Box & Pack,INV-674935,Packing materials - Pacific Box & Pack,20419.25,jchen
+JE10093,2026-06-12,Harvest labor,Kings Labor Contractors,INV-812711,Harvest labor - Kings Labor Contractors,38074.27,jchen
+JE10058,2026-06-15,Chemicals & fertilizer,Central Ag Chemicals,INV-456224,Chemicals & fertilizer - Central Ag Chemicals,8518.2,rdiaz
+JE10063,2026-06-15,Chemicals & fertilizer,Central Ag Chemicals,INV-283647,Chemicals & fertilizer - Central Ag Chemicals,11699.51,rdiaz
+JE10088,2026-06-15,Office supplies,Tulare Office Supply,INV-671529,Office supplies - Tulare Office Supply,363.21,rdiaz
+JE10097,2026-06-15,Harvest labor,Kings Labor Contractors,INV-157624,Harvest labor - Kings Labor Contractors,44808.34,mlopez
+JE10069,2026-06-16,Packing materials,Pacific Box & Pack,INV-892110,Packing materials - Pacific Box & Pack,17784.25,jchen
+JE10057,2026-06-17,Fuel & diesel,Valley Diesel Supply,INV-824451,Fuel & diesel - Valley Diesel Supply,6011.39,rdiaz
+JE10053,2026-06-18,Fuel & diesel,Valley Diesel Supply,INV-581129,Fuel & diesel - Valley Diesel Supply,5140.71,rdiaz
+JE10077,2026-06-18,Repairs & maintenance,SJ Valley Equipment Repair,INV-713775,Repairs & maintenance - SJ Valley Equipment Repair,2528.44,jchen
+JE10084,2026-06-18,Repairs & maintenance,SJ Valley Equipment Repair,INV-952442,Repairs & maintenance - SJ Valley Equipment Repair,4460.86,mlopez
+JE10087,2026-06-18,Office supplies,Tulare Office Supply,INV-991441,Office supplies - Tulare Office Supply,360.78,rdiaz
+JE10052,2026-06-19,Fuel & diesel,Valley Diesel Supply,INV-723881,Fuel & diesel - Valley Diesel Supply,7621.16,rdiaz
+JE10054,2026-06-19,Fuel & diesel,Valley Diesel Supply,INV-905157,Fuel & diesel - Valley Diesel Supply,5609.54,mlopez
+JE10066,2026-06-19,Chemicals & fertilizer,Central Ag Chemicals,INV-206691,Chemicals & fertilizer - Central Ag Chemicals,9281.93,mlopez
+JE10091,2026-06-19,Harvest labor,Kings Labor Contractors,INV-109626,Harvest labor - Kings Labor Contractors,54254.98,jchen
+JE10059,2026-06-22,Chemicals & fertilizer,Central Ag Chemicals,INV-270723,Chemicals & fertilizer - Central Ag Chemicals,9929.07,jchen
+JE10072,2026-06-22,Packing materials,Pacific Box & Pack,INV-922351,Packing materials - Pacific Box & Pack,13551.42,rdiaz
+JE10079,2026-06-22,Repairs & maintenance,SJ Valley Equipment Repair,INV-708418,Repairs & maintenance - SJ Valley Equipment Repair,4014.58,mlopez
+JE10086,2026-06-22,Insurance,Westside Farm Insurance,INV-680994,Insurance - Westside Farm Insurance,22000.0,mlopez
+JE10098,2026-06-22,Harvest labor,Kings Labor Contractors,INV-310939,Harvest labor - Kings Labor Contractors,41206.52,jchen
+JE10092,2026-06-24,Harvest labor,Kings Labor Contractors,INV-361177,Harvest labor - Kings Labor Contractors,50846.83,mlopez
+JE10095,2026-06-25,Harvest labor,Kings Labor Contractors,INV-913595,Harvest labor - Kings Labor Contractors,65585.73,mlopez
+JE10050,2026-06-26,Fuel & diesel,Valley Diesel Supply,INV-718006,Fuel & diesel - Valley Diesel Supply,5708.49,jchen
+JE10081,2026-06-26,Repairs & maintenance,SJ Valley Equipment Repair,INV-352131,Repairs & maintenance - SJ Valley Equipment Repair,4817.83,mlopez
+JE10051,2026-06-29,Fuel & diesel,Valley Diesel Supply,INV-949833,Fuel & diesel - Valley Diesel Supply,7704.05,jchen
+JE10064,2026-06-29,Chemicals & fertilizer,Central Ag Chemicals,INV-500021,Chemicals & fertilizer - Central Ag Chemicals,7044.81,mlopez
+JE10076,2026-06-29,Repairs & maintenance,SJ Valley Equipment Repair,INV-285870,Repairs & maintenance - SJ Valley Equipment Repair,3804.1,jchen
+JE10124,2026-07-01,Repairs & maintenance,SJ Valley Equipment Repair,INV-659682,Repairs & maintenance - SJ Valley Equipment Repair,5197.35,mlopez
+JE10110,2026-07-02,Chemicals & fertilizer,Central Ag Chemicals,INV-757913,Chemicals & fertilizer - Central Ag Chemicals,8784.41,jchen
+JE10112,2026-07-02,Chemicals & fertilizer,Central Ag Chemicals,INV-808513,Chemicals & fertilizer - Central Ag Chemicals,8852.68,rdiaz
+JE10101,2026-07-03,Fuel & diesel,Valley Diesel Supply,INV-941706,Fuel & diesel - Valley Diesel Supply,6257.63,rdiaz
+JE10111,2026-07-03,Chemicals & fertilizer,Central Ag Chemicals,INV-717441,Chemicals & fertilizer - Central Ag Chemicals,10089.9,rdiaz
+JE10145,2026-07-03,Harvest labor,Kings Labor Contractors,INV-199281,Harvest labor - Kings Labor Contractors,59982.63,jchen
+JE10103,2026-07-06,Fuel & diesel,Valley Diesel Supply,INV-961822,Fuel & diesel - Valley Diesel Supply,6799.06,mlopez
+JE10113,2026-07-06,Chemicals & fertilizer,Central Ag Chemicals,INV-569887,Chemicals & fertilizer - Central Ag Chemicals,9536.02,jchen
+JE10135,2026-07-06,Insurance,Westside Farm Insurance,INV-244065,Insurance - Westside Farm Insurance,22000.0,jchen
+JE10138,2026-07-06,Office supplies,Tulare Office Supply,INV-919301,Office supplies - Tulare Office Supply,496.97,jchen
+JE10144,2026-07-08,Harvest labor,Kings Labor Contractors,INV-504525,Harvest labor - Kings Labor Contractors,64131.49,mlopez
+JE10128,2026-07-09,Repairs & maintenance,SJ Valley Equipment Repair,INV-350729,Repairs & maintenance - SJ Valley Equipment Repair,2764.34,rdiaz
+JE10129,2026-07-09,Repairs & maintenance,SJ Valley Equipment Repair,INV-226648,Repairs & maintenance - SJ Valley Equipment Repair,2610.36,jchen
+JE10105,2026-07-10,Fuel & diesel,Valley Diesel Supply,INV-220703,Fuel & diesel - Valley Diesel Supply,6269.37,rdiaz
+JE10137,2026-07-10,Office supplies,Tulare Office Supply,INV-423339,Office supplies - Tulare Office Supply,405.23,jchen
+JE10102,2026-07-13,Fuel & diesel,Valley Diesel Supply,INV-280202,Fuel & diesel - Valley Diesel Supply,6784.0,jchen
+JE10104,2026-07-13,Fuel & diesel,Valley Diesel Supply,INV-731273,Fuel & diesel - Valley Diesel Supply,5499.15,rdiaz
+JE10114,2026-07-13,Chemicals & fertilizer,Central Ag Chemicals,INV-945878,Chemicals & fertilizer - Central Ag Chemicals,8310.14,mlopez
+JE10118,2026-07-13,Packing materials,Pacific Box & Pack,INV-317330,Packing materials - Pacific Box & Pack,13722.09,rdiaz
+JE10121,2026-07-13,Packing materials,Pacific Box & Pack,INV-901084,Packing materials - Pacific Box & Pack,19507.52,rdiaz
+JE10127,2026-07-13,Repairs & maintenance,SJ Valley Equipment Repair,INV-350734,Repairs & maintenance - SJ Valley Equipment Repair,2526.74,rdiaz
+JE10130,2026-07-13,Repairs & maintenance,SJ Valley Equipment Repair,INV-263546,Repairs & maintenance - SJ Valley Equipment Repair,3275.42,mlopez
+JE10141,2026-07-13,Harvest labor,Kings Labor Contractors,INV-488028,Harvest labor - Kings Labor Contractors,43565.22,mlopez
+JE10107,2026-07-14,Chemicals & fertilizer,Central Ag Chemicals,INV-426581,Chemicals & fertilizer - Central Ag Chemicals,9994.07,rdiaz
+JE10109,2026-07-14,Chemicals & fertilizer,Central Ag Chemicals,INV-766255,Chemicals & fertilizer - Central Ag Chemicals,7884.5,jchen
+JE10120,2026-07-14,Packing materials,Pacific Box & Pack,INV-988981,Packing materials - Pacific Box & Pack,17933.47,rdiaz
+JE10100,2026-07-15,Fuel & diesel,Valley Diesel Supply,INV-705119,Fuel & diesel - Valley Diesel Supply,5812.12,mlopez
+JE10106,2026-07-15,Fuel & diesel,Valley Diesel Supply,INV-281219,Fuel & diesel - Valley Diesel Supply,5634.04,jchen
+JE10117,2026-07-15,Packing materials,Pacific Box & Pack,INV-982361,Packing materials - Pacific Box & Pack,17571.59,rdiaz
+JE10131,2026-07-16,Repairs & maintenance,SJ Valley Equipment Repair,INV-736400,Repairs & maintenance - SJ Valley Equipment Repair,3376.77,mlopez
+JE10139,2026-07-17,Office supplies,Tulare Office Supply,INV-912683,Office supplies - Tulare Office Supply,380.55,rdiaz
+JE10108,2026-07-20,Chemicals & fertilizer,Central Ag Chemicals,INV-329185,Chemicals & fertilizer - Central Ag Chemicals,7488.05,mlopez
+JE10119,2026-07-20,Packing materials,Pacific Box & Pack,INV-630533,Packing materials - Pacific Box & Pack,16246.08,jchen
+JE10122,2026-07-20,Packing materials,Pacific Box & Pack,INV-804273,Packing materials - Pacific Box & Pack,20140.42,mlopez
+JE10132,2026-07-20,Repairs & maintenance,SJ Valley Equipment Repair,INV-539259,Repairs & maintenance - SJ Valley Equipment Repair,5505.09,jchen
+JE10143,2026-07-20,Harvest labor,Kings Labor Contractors,INV-796245,Harvest labor - Kings Labor Contractors,44685.99,mlopez
+JE10146,2026-07-20,Harvest labor,Kings Labor Contractors,INV-473230,Harvest labor - Kings Labor Contractors,54211.77,mlopez
+JE10126,2026-07-21,Repairs & maintenance,SJ Valley Equipment Repair,INV-214475,Repairs & maintenance - SJ Valley Equipment Repair,4853.84,rdiaz
+JE10134,2026-07-21,Utilities,PG&E,INV-882587,Utilities - PG&E,34853.64,rdiaz
+JE10140,2026-07-21,Harvest labor,Kings Labor Contractors,INV-946733,Harvest labor - Kings Labor Contractors,70607.88,jchen
+JE10115,2026-07-22,Chemicals & fertilizer,Central Ag Chemicals,INV-378859,Chemicals & fertilizer - Central Ag Chemicals,9611.47,mlopez
+JE10123,2026-07-22,Packing materials,Pacific Box & Pack,INV-329072,Packing materials - Pacific Box & Pack,18405.35,rdiaz
+JE10142,2026-07-22,Harvest labor,Kings Labor Contractors,INV-258946,Harvest labor - Kings Labor Contractors,48663.52,mlopez
+JE10147,2026-07-23,Harvest labor,Kings Labor Contractors,INV-208135,Harvest labor - Kings Labor Contractors,55513.55,jchen
+JE10116,2026-07-24,Packing materials,Pacific Box & Pack,INV-347022,Packing materials - Pacific Box & Pack,16104.58,mlopez
+JE10133,2026-07-24,Repairs & maintenance,SJ Valley Equipment Repair,INV-390151,Repairs & maintenance - SJ Valley Equipment Repair,6655.04,jchen
+JE10136,2026-07-24,Office supplies,Tulare Office Supply,INV-670598,Office supplies - Tulare Office Supply,556.93,mlopez
+JE10099,2026-07-27,Fuel & diesel,Valley Diesel Supply,INV-567742,Fuel & diesel - Valley Diesel Supply,6124.92,rdiaz
+JE10125,2026-07-27,Repairs & maintenance,SJ Valley Equipment Repair,INV-186473,Repairs & maintenance - SJ Valley Equipment Repair,4259.6,rdiaz
+JE10149,2026-08-03,Fuel & diesel,Valley Diesel Supply,INV-585183,Fuel & diesel - Valley Diesel Supply,6817.77,mlopez
+JE10155,2026-08-03,Fuel & diesel,Valley Diesel Supply,INV-581420,Fuel & diesel - Valley Diesel Supply,7189.74,rdiaz
+JE10157,2026-08-03,Chemicals & fertilizer,Central Ag Chemicals,INV-577383,Chemicals & fertilizer - Central Ag Chemicals,10702.16,rdiaz
+JE10161,2026-08-03,Chemicals & fertilizer,Central Ag Chemicals,INV-616443,Chemicals & fertilizer - Central Ag Chemicals,5532.29,mlopez
+JE10163,2026-08-03,Chemicals & fertilizer,Central Ag Chemicals,INV-465292,Chemicals & fertilizer - Central Ag Chemicals,9465.34,mlopez
+JE10164,2026-08-03,Chemicals & fertilizer,Central Ag Chemicals,INV-919733,Chemicals & fertilizer - Central Ag Chemicals,8857.93,jchen
+JE10175,2026-08-03,Repairs & maintenance,SJ Valley Equipment Repair,INV-368070,Repairs & maintenance - SJ Valley Equipment Repair,5094.03,rdiaz
+JE10179,2026-08-03,Repairs & maintenance,SJ Valley Equipment Repair,INV-195940,Repairs & maintenance - SJ Valley Equipment Repair,5569.1,rdiaz
+JE10185,2026-08-03,Office supplies,Tulare Office Supply,INV-905680,Office supplies - Tulare Office Supply,450.94,mlopez
+JE10186,2026-08-03,Office supplies,Tulare Office Supply,INV-374643,Office supplies - Tulare Office Supply,501.56,mlopez
+JE10178,2026-08-04,Repairs & maintenance,SJ Valley Equipment Repair,INV-266103,Repairs & maintenance - SJ Valley Equipment Repair,907.97,rdiaz
+JE10183,2026-08-04,Utilities,PG&E,INV-432941,Utilities - PG&E,42217.66,mlopez
+JE10158,2026-08-05,Chemicals & fertilizer,Central Ag Chemicals,INV-118713,Chemicals & fertilizer - Central Ag Chemicals,12380.06,jchen
+JE10182,2026-08-05,Repairs & maintenance,SJ Valley Equipment Repair,INV-646823,Repairs & maintenance - SJ Valley Equipment Repair,2399.34,rdiaz
+JE10167,2026-08-07,Packing materials,Pacific Box & Pack,INV-188632,Packing materials - Pacific Box & Pack,18310.16,rdiaz
+JE10176,2026-08-07,Repairs & maintenance,SJ Valley Equipment Repair,INV-206890,Repairs & maintenance - SJ Valley Equipment Repair,3964.76,mlopez
+JE10160,2026-08-10,Chemicals & fertilizer,Central Ag Chemicals,INV-540102,Chemicals & fertilizer - Central Ag Chemicals,9536.67,mlopez
+JE10181,2026-08-10,Repairs & maintenance,SJ Valley Equipment Repair,INV-961320,Repairs & maintenance - SJ Valley Equipment Repair,5558.95,mlopez
+JE10192,2026-08-10,Harvest labor,Kings Labor Contractors,INV-552865,Harvest labor - Kings Labor Contractors,53264.08,rdiaz
+JE10171,2026-08-11,Packing materials,Pacific Box & Pack,INV-688856,Packing materials - Pacific Box & Pack,18753.26,jchen
+JE10151,2026-08-12,Fuel & diesel,Valley Diesel Supply,INV-338071,Fuel & diesel - Valley Diesel Supply,6791.6,rdiaz
+JE10188,2026-08-12,Office supplies,Tulare Office Supply,INV-970486,Office supplies - Tulare Office Supply,522.48,mlopez
+JE10193,2026-08-12,Harvest labor,Kings Labor Contractors,INV-221242,Harvest labor - Kings Labor Contractors,53014.71,jchen
+JE10180,2026-08-13,Repairs & maintenance,SJ Valley Equipment Repair,INV-598941,Repairs & maintenance - SJ Valley Equipment Repair,4948.17,jchen
+JE10168,2026-08-14,Packing materials,Pacific Box & Pack,INV-323681,Packing materials - Pacific Box & Pack,23139.05,jchen
+JE10174,2026-08-14,Repairs & maintenance,SJ Valley Equipment Repair,INV-146852,Repairs & maintenance - SJ Valley Equipment Repair,1455.73,jchen
+JE10152,2026-08-17,Fuel & diesel,Valley Diesel Supply,INV-325184,Fuel & diesel - Valley Diesel Supply,6102.1,rdiaz
+JE10156,2026-08-17,Chemicals & fertilizer,Central Ag Chemicals,INV-135065,Chemicals & fertilizer - Central Ag Chemicals,7771.77,rdiaz
+JE10159,2026-08-17,Chemicals & fertilizer,Central Ag Chemicals,INV-612927,Chemicals & fertilizer - Central Ag Chemicals,11050.96,mlopez
+JE10165,2026-08-17,Packing materials,Pacific Box & Pack,INV-415884,Packing materials - Pacific Box & Pack,22033.11,jchen
+JE10173,2026-08-17,Repairs & maintenance,SJ Valley Equipment Repair,INV-512807,Repairs & maintenance - SJ Valley Equipment Repair,4565.59,rdiaz
+JE10184,2026-08-17,Insurance,Westside Farm Insurance,INV-858527,Insurance - Westside Farm Insurance,22000.0,rdiaz
+JE10190,2026-08-17,Harvest labor,Kings Labor Contractors,INV-595290,Harvest labor - Kings Labor Contractors,51213.3,jchen
+JE10195,2026-08-17,Harvest labor,Kings Labor Contractors,INV-678482,Harvest labor - Kings Labor Contractors,62376.11,jchen
+JE10162,2026-08-18,Chemicals & fertilizer,Central Ag Chemicals,INV-683965,Chemicals & fertilizer - Central Ag Chemicals,12460.51,mlopez
+JE10187,2026-08-18,Office supplies,Tulare Office Supply,INV-965717,Office supplies - Tulare Office Supply,507.62,rdiaz
+JE10189,2026-08-18,Harvest labor,Kings Labor Contractors,INV-413464,Harvest labor - Kings Labor Contractors,56456.67,rdiaz
+JE10194,2026-08-18,Harvest labor,Kings Labor Contractors,INV-469300,Harvest labor - Kings Labor Contractors,44010.91,jchen
+JE10154,2026-08-19,Fuel & diesel,Valley Diesel Supply,INV-296426,Fuel & diesel - Valley Diesel Supply,7172.08,rdiaz
+JE10172,2026-08-21,Packing materials,Pacific Box & Pack,INV-595344,Packing materials - Pacific Box & Pack,19456.99,rdiaz
+JE10148,2026-08-24,Fuel & diesel,Valley Diesel Supply,INV-936619,Fuel & diesel - Valley Diesel Supply,8042.03,rdiaz
+JE10150,2026-08-24,Fuel & diesel,Valley Diesel Supply,INV-986251,Fuel & diesel - Valley Diesel Supply,4271.62,jchen
+JE10153,2026-08-24,Fuel & diesel,Valley Diesel Supply,INV-598732,Fuel & diesel - Valley Diesel Supply,7162.58,jchen
+JE10166,2026-08-24,Packing materials,Pacific Box & Pack,INV-449607,Packing materials - Pacific Box & Pack,19663.42,rdiaz
+JE10169,2026-08-24,Packing materials,Pacific Box & Pack,INV-605759,Packing materials - Pacific Box & Pack,21180.01,rdiaz
+JE10170,2026-08-24,Packing materials,Pacific Box & Pack,INV-102128,Packing materials - Pacific Box & Pack,14716.73,jchen
+JE10177,2026-08-24,Repairs & maintenance,SJ Valley Equipment Repair,INV-739315,Repairs & maintenance - SJ Valley Equipment Repair,3163.34,rdiaz
+JE10191,2026-08-24,Harvest labor,Kings Labor Contractors,INV-541936,Harvest labor - Kings Labor Contractors,32324.68,rdiaz
+JE10196,2026-08-24,Harvest labor,Kings Labor Contractors,INV-965377,Harvest labor - Kings Labor Contractors,52805.9,rdiaz
+JE10223,2026-09-01,Repairs & maintenance,SJ Valley Equipment Repair,INV-770643,Repairs & maintenance - SJ Valley Equipment Repair,5161.64,rdiaz
+JE10226,2026-09-01,Repairs & maintenance,SJ Valley Equipment Repair,INV-487002,Repairs & maintenance - SJ Valley Equipment Repair,2639.49,jchen
+JE10228,2026-09-02,Repairs & maintenance,SJ Valley Equipment Repair,INV-379918,Repairs & maintenance - SJ Valley Equipment Repair,2231.12,rdiaz
+JE10218,2026-09-03,Packing materials,Pacific Box & Pack,INV-716926,Packing materials - Pacific Box & Pack,17948.77,mlopez
+JE10225,2026-09-03,Repairs & maintenance,SJ Valley Equipment Repair,INV-875245,Repairs & maintenance - SJ Valley Equipment Repair,3043.81,mlopez
+JE10237,2026-09-03,Office supplies,Tulare Office Supply,INV-217605,Office supplies - Tulare Office Supply,734.75,mlopez
+JE10200,2026-09-04,Fuel & diesel,Valley Diesel Supply,INV-429239,Fuel & diesel - Valley Diesel Supply,4805.72,mlopez
+JE10204,2026-09-04,Fuel & diesel,Valley Diesel Supply,INV-409604,Fuel & diesel - Valley Diesel Supply,7908.19,jchen
+JE10207,2026-09-04,Chemicals & fertilizer,Central Ag Chemicals,INV-647938,Chemicals & fertilizer - Central Ag Chemicals,10074.99,mlopez
+JE10206,2026-09-07,Chemicals & fertilizer,Central Ag Chemicals,INV-347739,Chemicals & fertilizer - Central Ag Chemicals,8900.02,mlopez
+JE10208,2026-09-07,Chemicals & fertilizer,Central Ag Chemicals,INV-669791,Chemicals & fertilizer - Central Ag Chemicals,10608.31,jchen
+JE10234,2026-09-07,Office supplies,Tulare Office Supply,INV-289350,Office supplies - Tulare Office Supply,510.12,rdiaz
+JE10244,2026-09-07,Harvest labor,Kings Labor Contractors,INV-169205,Harvest labor - Kings Labor Contractors,46507.65,mlopez
+JE10198,2026-09-09,Fuel & diesel,Valley Diesel Supply,INV-997834,Fuel & diesel - Valley Diesel Supply,7266.28,jchen
+JE10202,2026-09-09,Fuel & diesel,Valley Diesel Supply,INV-255317,Fuel & diesel - Valley Diesel Supply,7034.92,rdiaz
+JE10224,2026-09-09,Repairs & maintenance,SJ Valley Equipment Repair,INV-108625,Repairs & maintenance - SJ Valley Equipment Repair,3135.74,mlopez
+JE10239,2026-09-09,Harvest labor,Kings Labor Contractors,INV-918773,Harvest labor - Kings Labor Contractors,52699.34,jchen
+JE10240,2026-09-09,Harvest labor,Kings Labor Contractors,INV-721641,Harvest labor - Kings Labor Contractors,52908.96,jchen
+JE10201,2026-09-10,Fuel & diesel,Valley Diesel Supply,INV-783474,Fuel & diesel - Valley Diesel Supply,6922.47,mlopez
+JE10212,2026-09-10,Chemicals & fertilizer,Central Ag Chemicals,INV-177759,Chemicals & fertilizer - Central Ag Chemicals,11862.89,jchen
+JE10238,2026-09-10,Harvest labor,Kings Labor Contractors,INV-741768,Harvest labor - Kings Labor Contractors,49293.49,mlopez
+JE10217,2026-09-11,Packing materials,Pacific Box & Pack,INV-530581,Packing materials - Pacific Box & Pack,18162.0,mlopez
+JE10220,2026-09-11,Packing materials,Pacific Box & Pack,INV-465564,Packing materials - Pacific Box & Pack,19175.54,mlopez
+JE10209,2026-09-14,Chemicals & fertilizer,Central Ag Chemicals,INV-964678,Chemicals & fertilizer - Central Ag Chemicals,14121.51,rdiaz
+JE10215,2026-09-14,Packing materials,Pacific Box & Pack,INV-133843,Packing materials - Pacific Box & Pack,23614.61,rdiaz
+JE10243,2026-09-14,Harvest labor,Kings Labor Contractors,INV-835378,Harvest labor - Kings Labor Contractors,60112.65,mlopez
+JE10197,2026-09-15,Fuel & diesel,Valley Diesel Supply,INV-577408,Fuel & diesel - Valley Diesel Supply,6326.84,jchen
+JE10242,2026-09-15,Harvest labor,Kings Labor Contractors,INV-676776,Harvest labor - Kings Labor Contractors,49980.19,rdiaz
+JE10205,2026-09-16,Chemicals & fertilizer,Central Ag Chemicals,INV-615294,Chemicals & fertilizer - Central Ag Chemicals,9622.98,jchen
+JE10229,2026-09-16,Repairs & maintenance,SJ Valley Equipment Repair,INV-604970,Repairs & maintenance - SJ Valley Equipment Repair,2451.53,mlopez
+JE10232,2026-09-17,Utilities,PG&E,INV-696659,Utilities - PG&E,35642.75,jchen
+JE10199,2026-09-18,Fuel & diesel,Valley Diesel Supply,INV-469225,Fuel & diesel - Valley Diesel Supply,6390.46,rdiaz
+JE10214,2026-09-18,Packing materials,Pacific Box & Pack,INV-198622,Packing materials - Pacific Box & Pack,16289.34,rdiaz
+JE10231,2026-09-18,Repairs & maintenance,SJ Valley Equipment Repair,INV-309585,Repairs & maintenance - SJ Valley Equipment Repair,3786.38,rdiaz
+JE10241,2026-09-18,Harvest labor,Kings Labor Contractors,INV-474589,Harvest labor - Kings Labor Contractors,67284.21,jchen
+JE10213,2026-09-21,Chemicals & fertilizer,Central Ag Chemicals,INV-412519,Chemicals & fertilizer - Central Ag Chemicals,10806.56,rdiaz
+JE10219,2026-09-21,Packing materials,Pacific Box & Pack,INV-996037,Packing materials - Pacific Box & Pack,16937.12,rdiaz
+JE10221,2026-09-21,Packing materials,Pacific Box & Pack,INV-981176,Packing materials - Pacific Box & Pack,17619.2,rdiaz
+JE10230,2026-09-21,Repairs & maintenance,SJ Valley Equipment Repair,INV-276470,Repairs & maintenance - SJ Valley Equipment Repair,7153.32,jchen
+JE10216,2026-09-22,Packing materials,Pacific Box & Pack,INV-587061,Packing materials - Pacific Box & Pack,17181.33,mlopez
+JE10227,2026-09-23,Repairs & maintenance,SJ Valley Equipment Repair,INV-519069,Repairs & maintenance - SJ Valley Equipment Repair,6503.78,jchen
+JE10236,2026-09-23,Office supplies,Tulare Office Supply,INV-260842,Office supplies - Tulare Office Supply,390.7,mlopez
+JE10245,2026-09-23,Harvest labor,Kings Labor Contractors,INV-309942,Harvest labor - Kings Labor Contractors,54596.0,mlopez
+JE10222,2026-09-24,Repairs & maintenance,SJ Valley Equipment Repair,INV-323592,Repairs & maintenance - SJ Valley Equipment Repair,6338.79,mlopez
+JE10233,2026-09-24,Insurance,Westside Farm Insurance,INV-750954,Insurance - Westside Farm Insurance,22000.0,mlopez
+JE10235,2026-09-24,Office supplies,Tulare Office Supply,INV-405222,Office supplies - Tulare Office Supply,377.58,mlopez
+JE10203,2026-09-25,Fuel & diesel,Valley Diesel Supply,INV-363075,Fuel & diesel - Valley Diesel Supply,6433.54,mlopez
+JE10211,2026-09-25,Chemicals & fertilizer,Central Ag Chemicals,INV-412910,Chemicals & fertilizer - Central Ag Chemicals,11584.75,mlopez
+JE10210,2026-09-28,Chemicals & fertilizer,Central Ag Chemicals,INV-345929,Chemicals & fertilizer - Central Ag Chemicals,6959.82,jchen
+JE10259,2026-10-02,Chemicals & fertilizer,Central Ag Chemicals,INV-655476,Chemicals & fertilizer - Central Ag Chemicals,7814.18,jchen
+JE10271,2026-10-02,Repairs & maintenance,SJ Valley Equipment Repair,INV-997232,Repairs & maintenance - SJ Valley Equipment Repair,5157.03,rdiaz
+JE10283,2026-10-02,Office supplies,Tulare Office Supply,INV-750308,Office supplies - Tulare Office Supply,192.33,mlopez
+JE10250,2026-10-05,Fuel & diesel,Valley Diesel Supply,INV-408028,Fuel & diesel - Valley Diesel Supply,6156.74,jchen
+JE10254,2026-10-05,Chemicals & fertilizer,Central Ag Chemicals,INV-856788,Chemicals & fertilizer - Central Ag Chemicals,10825.26,jchen
+JE10262,2026-10-05,Chemicals & fertilizer,Central Ag Chemicals,INV-991956,Chemicals & fertilizer - Central Ag Chemicals,10486.81,rdiaz
+JE10276,2026-10-05,Repairs & maintenance,SJ Valley Equipment Repair,INV-239718,Repairs & maintenance - SJ Valley Equipment Repair,5473.28,jchen
+JE10281,2026-10-05,Utilities,PG&E,INV-495613,Utilities - PG&E,39232.41,jchen
+JE10290,2026-10-05,Harvest labor,Kings Labor Contractors,INV-793188,Harvest labor - Kings Labor Contractors,49255.44,rdiaz
+JE10252,2026-10-06,Fuel & diesel,Valley Diesel Supply,INV-839407,Fuel & diesel - Valley Diesel Supply,7194.99,jchen
+JE10258,2026-10-06,Chemicals & fertilizer,Central Ag Chemicals,INV-768251,Chemicals & fertilizer - Central Ag Chemicals,5464.57,rdiaz
+JE10287,2026-10-06,Harvest labor,Kings Labor Contractors,INV-823837,Harvest labor - Kings Labor Contractors,58497.81,mlopez
+JE10249,2026-10-07,Fuel & diesel,Valley Diesel Supply,INV-115868,Fuel & diesel - Valley Diesel Supply,5274.73,rdiaz
+JE10263,2026-10-07,Packing materials,Pacific Box & Pack,INV-570345,Packing materials - Pacific Box & Pack,15848.43,rdiaz
+JE10270,2026-10-07,Packing materials,Pacific Box & Pack,INV-261856,Packing materials - Pacific Box & Pack,15291.22,rdiaz
+JE10291,2026-10-07,Harvest labor,Kings Labor Contractors,INV-183185,Harvest labor - Kings Labor Contractors,54536.48,jchen
+JE10260,2026-10-08,Chemicals & fertilizer,Central Ag Chemicals,INV-695442,Chemicals & fertilizer - Central Ag Chemicals,10622.11,mlopez
+JE10288,2026-10-08,Harvest labor,Kings Labor Contractors,INV-212206,Harvest labor - Kings Labor Contractors,55896.66,rdiaz
+JE10293,2026-10-09,Harvest labor,Kings Labor Contractors,INV-407342,Harvest labor - Kings Labor Contractors,46628.15,mlopez
+JE10294,2026-10-09,Harvest labor,Kings Labor Contractors,INV-423465,Harvest labor - Kings Labor Contractors,51020.34,jchen
+JE10299,2026-10-09,Repairs & maintenance,SJ Valley Equipment Repair,INV-396998,Tractor repair,4950.0,mlopez
+JE10300,2026-10-09,Repairs & maintenance,SJ Valley Equipment Repair,INV-543387,Tractor repair,4925.0,mlopez
+JE10257,2026-10-12,Chemicals & fertilizer,Central Ag Chemicals,INV-760138,Chemicals & fertilizer - Central Ag Chemicals,9453.63,rdiaz
+JE10268,2026-10-12,Packing materials,Pacific Box & Pack,INV-404207,Packing materials - Pacific Box & Pack,11977.99,jchen
+JE10269,2026-10-12,Packing materials,Pacific Box & Pack,INV-294334,Packing materials - Pacific Box & Pack,20792.91,mlopez
+JE10261,2026-10-13,Chemicals & fertilizer,Central Ag Chemicals,INV-808740,Chemicals & fertilizer - Central Ag Chemicals,9313.21,jchen
+JE10265,2026-10-13,Packing materials,Pacific Box & Pack,INV-603238,Packing materials - Pacific Box & Pack,15454.36,rdiaz
+JE10255,2026-10-14,Chemicals & fertilizer,Central Ag Chemicals,INV-397262,Chemicals & fertilizer - Central Ag Chemicals,8971.32,rdiaz
+JE10256,2026-10-14,Chemicals & fertilizer,Central Ag Chemicals,INV-302778,Chemicals & fertilizer - Central Ag Chemicals,9451.02,rdiaz
+JE10264,2026-10-14,Packing materials,Pacific Box & Pack,INV-797250,Packing materials - Pacific Box & Pack,21683.9,jchen
+JE10296,2026-10-14,Office supplies,Valley Diesel Supply,INV-774120,Bulk diesel delivery - Block 7,7180.0,mlopez
+JE10278,2026-10-15,Repairs & maintenance,SJ Valley Equipment Repair,INV-488791,Repairs & maintenance - SJ Valley Equipment Repair,955.23,rdiaz
+JE10266,2026-10-16,Packing materials,Pacific Box & Pack,INV-763665,Packing materials - Pacific Box & Pack,19714.37,mlopez
+JE10279,2026-10-16,Repairs & maintenance,SJ Valley Equipment Repair,INV-943146,Repairs & maintenance - SJ Valley Equipment Repair,3922.52,mlopez
+JE10297,2026-10-17,Repairs & maintenance,Cash / Manual JE,,Misc adjustment,25000.0,mlopez
+JE10274,2026-10-19,Repairs & maintenance,SJ Valley Equipment Repair,INV-918657,Repairs & maintenance - SJ Valley Equipment Repair,5604.2,jchen
+JE10275,2026-10-19,Repairs & maintenance,SJ Valley Equipment Repair,INV-980509,Repairs & maintenance - SJ Valley Equipment Repair,3601.27,jchen
+JE10282,2026-10-19,Insurance,Westside Farm Insurance,INV-210691,Insurance - Westside Farm Insurance,22000.0,rdiaz
+JE10286,2026-10-19,Office supplies,Tulare Office Supply,INV-394024,Office supplies - Tulare Office Supply,329.58,mlopez
+JE10253,2026-10-21,Fuel & diesel,Valley Diesel Supply,INV-791682,Fuel & diesel - Valley Diesel Supply,5625.55,rdiaz
+JE10285,2026-10-21,Office supplies,Tulare Office Supply,INV-343315,Office supplies - Tulare Office Supply,390.8,jchen
+JE10301,2026-10-21,Chemicals & fertilizer,Central Ag Chemicals,INV-883301,Fertilizer - fall application,41200.0,mlopez
+JE10246,2026-10-22,Fuel & diesel,Valley Diesel Supply,INV-125426,Fuel & diesel - Valley Diesel Supply,5369.72,mlopez
+JE10267,2026-10-22,Packing materials,Pacific Box & Pack,INV-936959,Packing materials - Pacific Box & Pack,17145.36,jchen
+JE10295,2026-10-23,Packing materials,Pacific Box & Pack,INV-570345,Packing materials - Pacific Box & Pack,15848.43,mlopez
+JE10247,2026-10-26,Fuel & diesel,Valley Diesel Supply,INV-990855,Fuel & diesel - Valley Diesel Supply,7006.88,mlopez
+JE10248,2026-10-26,Fuel & diesel,Valley Diesel Supply,INV-437710,Fuel & diesel - Valley Diesel Supply,5929.2,jchen
+JE10251,2026-10-26,Fuel & diesel,Valley Diesel Supply,INV-199547,Fuel & diesel - Valley Diesel Supply,7140.71,rdiaz
+JE10272,2026-10-26,Repairs & maintenance,SJ Valley Equipment Repair,INV-256369,Repairs & maintenance - SJ Valley Equipment Repair,2899.07,mlopez
+JE10284,2026-10-26,Office supplies,Tulare Office Supply,INV-865122,Office supplies - Tulare Office Supply,700.02,mlopez
+JE10292,2026-10-26,Harvest labor,Kings Labor Contractors,INV-569100,Harvest labor - Kings Labor Contractors,55200.78,jchen
+JE10273,2026-10-27,Repairs & maintenance,SJ Valley Equipment Repair,INV-785166,Repairs & maintenance - SJ Valley Equipment Repair,2329.16,rdiaz
+JE10277,2026-10-27,Repairs & maintenance,SJ Valley Equipment Repair,INV-169069,Repairs & maintenance - SJ Valley Equipment Repair,2977.32,mlopez
+JE10280,2026-10-27,Repairs & maintenance,SJ Valley Equipment Repair,INV-273456,Repairs & maintenance - SJ Valley Equipment Repair,6487.92,mlopez
+JE10289,2026-10-27,Harvest labor,Kings Labor Contractors,INV-520498,Harvest labor - Kings Labor Contractors,55433.02,rdiaz
+JE10298,2026-10-28,Repairs & maintenance,Rapid Ag Services LLC,RA-0001,Equipment services,18750.0,mlopez

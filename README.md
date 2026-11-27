@@ -2,7 +2,7 @@
 
 An AI agent that reviews a month of **general ledger** entries before close, investigates anything suspicious, and writes a review memo for the controller.
 
-Built by **Samuel Gonzalez**, Farm Analyst moving into FP&A. Part of a series of finance agents, alongside my Flash Report Agent and Rolling Forecast Agent (see my GitHub profile).
+Built by **Samuel Gonzalez**, Farm Analyst. Part of a series of finance agents, alongside my Flash Report Agent and Rolling Forecast Agent (see my GitHub profile).
 
 ---
 
